@@ -3,7 +3,7 @@ Predicting Barrett's segment length from Cytosponge-TFF3 intestinal metaplasia t
 This repository will contains the code to reproduce the results of the manuscript "Automated quantification of Barrett's esophagus from non-endoscopic device predicts Barrett's segment length" by Berman et al.
 
 <p align="center">
-  <img src="https://github.com/markowetzlab/barretts-segment-length-predictor/blob/master/tff3_prague_fig1.png" width="700" />
+  <img src="https://github.com/markowetzlab/barretts-segment-length-predictor/blob/master/tff3_prague_fig1.png" width="900" />
 </p>
 
 Reproducing results
