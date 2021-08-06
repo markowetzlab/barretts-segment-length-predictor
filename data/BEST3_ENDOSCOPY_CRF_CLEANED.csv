@@ -1,0 +1,210 @@
+Case,FirstRepeatTest,HadRepeatTest,CytoResult,FinalCytoResult,CellularityAdequate,COLUMNAR_CELL_GROUP,Endoscopy,PRAGUE_C,PRAGUE_M,BETrialDiagnosis,BEfromAllMethods,DiagDetail
+B3GBAD0135,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBAF0092,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,1,Yes,Yes,BE - no dysplasia
+B3GBBB0062,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBB0071,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBBC0002,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBC0020,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBC0047,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBC0056,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBD0005,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,3,Yes,Yes,BE with HGD
+B3GBBD0016,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBBE0023,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBBE0059,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,6,7,Yes,Yes,BE - no dysplasia
+B3GBBE0194,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBE0196,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBI0022,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,7,Yes,Yes,BE - no dysplasia
+B3GBBI0066,First Cytosponge test,No,Positive,Positive,Yes,02-Apr,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBBI0068,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBM0057,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBR0015,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,4,6,,No,Stage 1
+B3GBBR0091,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBBY0024,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,4,Yes,Yes,BE - no dysplasia
+B3GBBY0047,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,4,Yes,Yes,BE - no dysplasia
+B3GBBY0058,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBBY0079,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,1,1,Yes,No,BE - no dysplasia
+B3GBCE0046,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCE0057,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCE0086,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCE0088,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCE0107,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCE0133,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCE0157,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCE0188,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCL0006,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBCL0025,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,3,Yes,Yes,BE - no dysplasia
+B3GBCL0029,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,Yes,Yes,BE - no dysplasia
+B3GBCM0005,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCM0039,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCM0054,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCM0063,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCM0067,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCM0068,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBCM0069,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCN0039,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCP0005,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCP0028,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,5,7,No,Yes,BE - no dysplasia
+B3GBCP0030,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCP0062,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCR0194,First Cytosponge test,No,Positive with cellular atypia,Positive with cellular atypia,Yes,5+,Yes,8,9,Yes,Yes,BE - no dysplasia
+B3GBCS0011,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCS0014,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCS0019,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCS0027,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCS0054,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCT0026,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,3,Yes,Yes,BE - no dysplasia
+B3GBCT0032,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCT0086,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,3,Yes,Yes,BE - no dysplasia
+B3GBCW0033,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBCW0063,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCW0095,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBCW0118,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBDM0005,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBDM0081,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,3,Yes,Yes,BE - no dysplasia
+B3GBDM0100,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBDY0110,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBEY0032,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBEY0072,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBEY0188,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBFL0010,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBFL0015,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBFW0012,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBFW0035,First Cytosponge test,No,Positive with cellular atypia,Positive with cellular atypia,Yes,5+,Yes,2,3,Yes,Yes,BE - no dysplasia
+B3GBFW0037,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBFW0051,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,1,1,Yes,Yes,BE - no dysplasia
+B3GBFW0084,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,6,6,Yes,Yes,BE - no dysplasia
+B3GBFW0104,First Cytosponge test,No,Positive with cellular atypia,Positive with cellular atypia,Yes,5+,Yes,5,6,Yes,Yes,BE - no dysplasia
+B3GBFW0106,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,4,5,Yes,Yes,BE - no dysplasia
+B3GBGB0028,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBGB0032,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBGH0030,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBGM0060,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBGN0085,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBGN0095,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBHC0023,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBHC0036,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBHC0061,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,5,Yes,Yes,BE with HGD
+B3GBHE0060,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,3,3,Yes,Yes,BE - indef. dysplasia
+B3GBHL0036,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBHL0048,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBHL0055,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,5,Yes,Yes,BE - no dysplasia
+B3GBHL0059,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBHL0064,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,3,Yes,Yes,BE - indef. dysplasia
+B3GBHM0043,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBHM0085,First Cytosponge test,No,Positive with cellular atypia,Positive with cellular atypia,Yes,5+,Yes,0,0,,No,Stage 1
+B3GBHX0010,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBHX0173,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBHX0183,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBIC0035,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBIC0092,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBIC0147,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,3,Yes,Yes,BE - no dysplasia
+B3GBIM0061,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,1,2,Yes,Yes,BE - no dysplasia
+B3GBIX0018,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBLG0064,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,2,Yes,Yes,BE - no dysplasia
+B3GBLG0089,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,4,5,Yes,Yes,BE - no dysplasia
+B3GBLG0092,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBLG0107,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBLG0183,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,3,4,Yes,Yes,BE - indef. dysplasia
+B3GBLG0199,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBMF0137,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBMG0016,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBMG0032,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBMG0037,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBMG0048,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBMG0064,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBMG0075,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBML0040,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBML0171,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBML0180,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBMS0058,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,5,Yes,Yes,BE - no dysplasia
+B3GBMS0071,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBMY0029,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBMY0033,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,3,5,Yes,Yes,BE - no dysplasia
+B3GBMY0073,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBMY0174,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBNQ0007,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBNQ0043,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBNQ0063,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBOM0027,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBOM0122,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBOM0153,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBOR0030,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,3,Yes,Yes,BE - no dysplasia
+B3GBPE0032,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBPE0040,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPE0075,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,2,Yes,Yes,BE with HGD
+B3GBPE0079,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,4,4,Yes,Yes,BE - no dysplasia
+B3GBPE0097,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPK0038,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPK0070,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPK0151,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,1,2,Yes,Yes,BE - no dysplasia
+B3GBPL0001,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPL0050,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPL0093,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPL0115,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPL0121,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,7,8,Yes,Yes,BE - no dysplasia
+B3GBPL0163,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPL0180,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPL0196,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPM0042,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,4,Yes,Yes,BE - no dysplasia
+B3GBPM0074,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,3,Yes,Yes,BE - no dysplasia
+B3GBPM0099,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,8,8,Yes,Yes,BE - no dysplasia
+B3GBPN0003,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,7,8,Yes,Yes,BE - no dysplasia
+B3GBPN0010,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPN0060,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPN0151,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,5,Yes,Yes,BE - no dysplasia
+B3GBPN0161,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPR0018,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPR0091,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBPW0093,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBPW0118,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBQJ0064,First Cytosponge test,No,Positive with cellular atypia,Positive with cellular atypia,Yes,5+,Yes,2,4,Yes,Yes,BE - no dysplasia
+B3GBQJ0124,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,3,Yes,Yes,BE - no dysplasia
+B3GBQJ0132,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBQU0064,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBQU0078,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBQU0084,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSD0031,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSD0048,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSH0023,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,2,Yes,Yes,BE - no dysplasia
+B3GBSH0033,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSI0007,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSI0071,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSK0084,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSK0091,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,13,14,Yes,Yes,BE - no dysplasia
+B3GBSL0005,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,2,Yes,Yes,BE - no dysplasia
+B3GBSL0023,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBSL0025,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,8,Yes,Yes,BE - no dysplasia
+B3GBSL0057,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,2,Yes,Yes,BE - no dysplasia
+B3GBSS0021,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSS0043,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,3,4,Yes,Yes,BE - no dysplasia
+B3GBSS0061,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSS0078,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBST0009,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBST0026,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,4,5,Yes,Yes,BE with LGD
+B3GBST0061,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBSU0040,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,3,3,Yes,Yes,BE - no dysplasia
+B3GBSU0134,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBTL0014,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBTY0008,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,4,,No,
+B3GBTY0020,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,4,5,Yes,Yes,BE - no dysplasia
+B3GBTY0025,First Cytosponge test,No,Positive with cellular atypia,Positive with cellular atypia,Yes,5+,Yes,0,0,,No,Stage 1
+B3GBTY0044,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,Yes,Yes,BE - no dysplasia
+B3GBTY0061,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBTY0068,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBTY0131,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBTY0166,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBVH0038,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBWD0018,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBWE0044,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBWE0059,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,3,Yes,Yes,BE - no dysplasia
+B3GBWE0085,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBWS0005,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBWS0012,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,Stage 1
+B3GBWS0055,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,1,1,Yes,Yes,BE - no dysplasia
+B3GBWS0092,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,2,4,Yes,Yes,BE - indef. dysplasia
+B3GBWS0096,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBWS0100,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,1,Yes,Yes,BE - no dysplasia
+B3GBWT0040,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBWT0072,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBWT0094,Repeat Cytosponge test,Yes,Positive,Positive,Yes,5+,Yes,0,0,,No,
+B3GBYM0057,First Cytosponge test,No,Positive,Positive,Yes,5+,Yes,0,0,,No,
