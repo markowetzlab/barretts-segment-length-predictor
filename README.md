@@ -1,9 +1,9 @@
 Predicting Barrett's segment length from Cytosponge-TFF3 intestinal metaplasia tile count
 =====
-This repository will contains the code to reproduce the results of the manuscript "Automated quantification of Barrett's esophagus from non-endoscopic device predicts Barrett's segment length" by Berman et al.
+This repository contains the code to reproduce the results of the manuscript "Quantification of TFF3 expression from a non-endoscopic device predicts clinically relevant Barrett's oesophagus by machine learning" by Berman et al.
 
 <p align="center">
-  <img src="https://github.com/markowetzlab/barretts-segment-length-predictor/blob/master/figures/tff3_prague_fig1.png" width="900" />
+  <img src="https://raw.githubusercontent.com/markowetzlab/barretts-segment-length-predictor/master/figures/fig1.png" width="900" />
 </p>
 
 Reproducing results
