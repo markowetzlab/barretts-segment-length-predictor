@@ -12,4 +12,4 @@ Clone this repository repository:
 ```
 git clone https://github.com/markowetzlab/barretts-segment-length-predictor
 ```
-Then run the Jupyter R notebook `barretts_segment_length_predictor.ipynb` and the Jupyter Python notebook `create_figure_2.ipynb` to reproduce all the results of the paper.
+Next, run the Jupyter R notebook `barretts_segment_length_predictor.ipynb`, the Jupyter Python notebook `create_figure_2.ipynb`, and the R script `gland_count_analysis.R` to reproduce all the results of the paper.
